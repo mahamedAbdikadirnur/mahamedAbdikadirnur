@@ -1,4 +1,4 @@
--Hi there 👋
+Hi there 👋
 - 👋 Hi, My Name is mahamedAbdikadirnur
 - 🌱 I’m currently learning Full stack
 
